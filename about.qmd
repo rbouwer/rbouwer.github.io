@@ -1,5 +1,47 @@
 ---
+pagetitle: About Me | Rachel Bouwer
 title: "About Me"
+subtitle: "My past couple years..."
+toc: false
+about:
+  template: solana
+  image-shape: round
+  image-width: 10em
+  image: images/headshot.jpeg
+  links:
+    - icon: github
+      text: Github
+      href: https://www.github.com/rbouwer
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/rbouwer/
+    - icon: envelope
+      text: Email
+      href: mailto:r.12.bouwer@gmail.com
 ---
 
-Hi! My name is Rachel and I hope to fill this website with very cool content at a later date.
+I am a Masters in Data Science student at the University of British Columbia (UBC) - graduating in June 2024. I'm also a former Senior Data Engineering Consultant at Deloitte and Queen's Engineering graduate.
+
+Although I detail my experiences and skills a bit more formally in my [resume](resume.qmd), here I'll share a little summary of the past few years of my life! 
+
+---
+
+## Deloitte: Data Engineering Consulting
+I graduated from Queen's University with a BASc. in Computer Engineering & Applied Mathematics in the spring of 2021. After graduating from my Bachelors, I started working as a Data Engineering consultant with Deloitte in Toronto. I worked on the Omnia AI team and specialized in Public Sector technology transformations. I took on various roles across my projects - from creating data catelogs and data models to guide the delivery approach for technology modernization initiatves, to wrting SQL scripts to reconcile the transformed data, to implementing entity resolution solutions to automate previously manual processes.
+
+I really enjoyed buiilding on my computer engineering background and using my aptitude for problem solving in this position. However, across my projects at Deloitte, I realized that those which interested me the most and which I have been most passionate about involved data science. I had always had a love for mathematics and found data science to be the perfect intersection between mathematics and computer engineering – sparking a passion that I had never experienced in other areas of work.
+
+---
+
+## Data Science Masters
+In September of 2023, I made the move to Vancouver to start my Masters of Data Science at UBC. After working as a data engineer, I had the foundation in handling large datasets and architecting robust data pipelines. The program is a 10-month professional master’s program in Data Science that I found to build perfectly on my data engineering experience and background in mathematics. So far, I have gained new tools in statistical methods and machine learning algorithms for extracting patterns and making predictions. Given my background, I appreciate that the program has not only provided me (so many) technical skills but has also fostered my analytical thinking skills.
+
+### Key Courses
+- **Machine Learning** (Supervised & Unsupervised; Classification, Regression, Neural Networks, Language Modelling (NLP), Feature Selection, Time Series & Temporal Models, Deep Learning)
+- **Statistics** (Predictive & Descriptive Statistical Inference, A/B Testing, Hypothesis Testing, Bayesian Statistics, Regression),
+- **Relational Databases & Database Management** (PostgreSQL, NoSQL, MongoDB)
+- **Data Visualization** (Python: Altair & matlplotlib, R: ggplot)
+- **ML Ops & Software Development** (CI/CD, Containerization, Reproducibility, Data Science Workflows, Unit Testing, Automated Workflows)
+- **Web & Cloud Computing** (AWS, Spark)
+- **Data Structures & Algorithms**
+- **Data Privacy & Ethics**

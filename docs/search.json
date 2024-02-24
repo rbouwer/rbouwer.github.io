@@ -4,13 +4,118 @@
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "Hi! My name is Rachel and I hope to fill this website with very cool content at a later date."
+    "text": "I am a Masters in Data Science student at the University of British Columbia (UBC) - graduating in June 2024. I’m also a former Senior Data Engineering Consultant at Deloitte and Queen’s Engineering graduate.\nAlthough I detail my experiences and skills a bit more formally in my resume, here I’ll share a little summary of the past few years of my life!"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Homepage",
+    "title": "Rachel Bouwer",
     "section": "",
-    "text": "This homepage is under construction! Please check back in 9 months…"
+    "text": "Aspiring Data Scientist\n\n\nHello and welcome to my page! I built this site to share more about me, my projects, and my experiences. Hope you enjoy!\n\n\n\n\n\n\nAbout Me\nLearn a bit more about me and the past couple years of my life!\n\n\nProjects\nTake a peek at some of my notable projects!\n\n\nResume\nHere’s my full resume!"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Rachel Bouwer",
+    "section": "Education",
+    "text": "Education\nUnder Construction…"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Rachel Bouwer",
+    "section": "Experience",
+    "text": "Experience\nUnder Construction…\n\n\n\n\n\nAbout Me\nStart here to learn a bit more about me!\n\n\nProjects\nStart here to see some of my projects!\n\n\nResume\nHere’s my full resume!"
+  },
+  {
+    "objectID": "index.html#hi-and-welcome-to-my-site",
+    "href": "index.html#hi-and-welcome-to-my-site",
+    "title": "Rachel Bouwer",
+    "section": "Hi, and welcome to my site!",
+    "text": "Hi, and welcome to my site!\n\n\n\n\n\nAbout Me\nStart here to learn a bit more about me!\n\n\nProjects\nStart here to see some of my projects!\n\n\nResume\nHere’s my full resume!"
+  },
+  {
+    "objectID": "index.html#section",
+    "href": "index.html#section",
+    "title": "Rachel Bouwer",
+    "section": "",
+    "text": "Hello and welcome to my page! I built this site to share more about me, my projects, and my experiences. Hope you enjoy!\n\n\n\n\n\nAbout Me\nStart here to learn a bit more about me!\n\n\nProjects\nStart here to see some of my projects!\n\n\nResume\nHere’s my full resume!"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About Me",
+    "section": "Education",
+    "text": "Education\nUniversity of British Columbia (UBC) | Vancouver, BC\nMasters of Data Science | Sept 2023 - Present (June 2024)\nQueen’s University | Kingston, ON\nBSc Applied Mathematics & Computer Engineering | Sept 2017 - April 2021"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "About Me",
+    "section": "Experience",
+    "text": "Experience\nInsert"
+  },
+  {
+    "objectID": "about.html#skills",
+    "href": "about.html#skills",
+    "title": "About Me",
+    "section": "Skills",
+    "text": "Skills\nInsert"
+  },
+  {
+    "objectID": "about.html#applied-mathematics-computer-engineering",
+    "href": "about.html#applied-mathematics-computer-engineering",
+    "title": "About Me",
+    "section": "Applied Mathematics & Computer Engineering",
+    "text": "Applied Mathematics & Computer Engineering\nI graduated with a BASc. in Computer Engineering & Applied Mathematics in the spring of 2021."
+  },
+  {
+    "objectID": "about.html#deloitte",
+    "href": "about.html#deloitte",
+    "title": "About Me",
+    "section": "Deloitte",
+    "text": "Deloitte\nAfter graduating, I started working as a Data Engineering consultant with Deloitte. I really enjoyed building on my Computer Engineering studies as well as the overall analytical and problem solving skills that I gained through my degree. Throughout my year and a half in this space however, working on various data projects, I realize that those which have interested me the most and which I have been most passionate about involved data science. I have realized that data science is the perfect intersection between mathematics and computer engineering – and sparks a passion that I have never experienced in other areas of work."
+  },
+  {
+    "objectID": "about.html#data-science-masters",
+    "href": "about.html#data-science-masters",
+    "title": "About Me",
+    "section": "Data Science Masters",
+    "text": "Data Science Masters\nIn September of 2023, I made the move to Vancouver to start my Masters of Data Science at UBC. After working as a data engineer, I had the foundation in handling large datasets and architecting robust data pipelines. The program is a 10-month professional master’s program in Data Science that I found to build perfectly on my data engineering experience and background in mathematics. So far, I have gained new tools in statistical methods and machine learning algorithms for extracting patterns and making predictions. Given my background, I appreciate that the program has not only provided me (so many) technical skills but has also fostered my analytical thinking skills.\n\nKey Courses\n\nMachine Learning (Supervised & Unsupervised; Classification, Regression, Neural Networks, Language Modelling (NLP), Feature Selection, Time Series & Temporal Models, Deep Learning)\nStatistics (Predictive & Descriptive Statistical Inference, A/B Testing, Hypothesis Testing, Bayesian Statistics, Regression),\nRelational Databases & Database Management (PostgreSQL, NoSQL, MongoDB)\nData Visualization (Python: Altair & matlplotlib, R: ggplot)\nML Ops & Software Development (CI/CD, Containerization, Reproducibility, Data Science Workflows, Unit Testing, Automated Workflows)\nWeb & Cloud Computing (AWS, Spark)\nData Structures & Algorithms\nData Privacy & Ethics"
+  },
+  {
+    "objectID": "about.html#data-engineering-consulting",
+    "href": "about.html#data-engineering-consulting",
+    "title": "About Me",
+    "section": "Data Engineering Consulting",
+    "text": "Data Engineering Consulting\nI graduated from Queen’s University with a BASc. in Computer Engineering & Applied Mathematics in the spring of 2021. After graduating from my Bachelors, I started working as a Data Engineering consultant with Deloitte. I worked on the Omnia AI Strategy, Analytics and M&A team and specialized in Public Sector technology transformations. Through my various projects, I took on various roles from decision making for the delivery approach and architecture for technology modernization initiatves, to wrting SQL scripts to reconcile the legacy and target data as per migration mappings, to implementing solutions to reduce manual workload through automated entity resolution.\nI really enjoyed building on my Computer Engineering studies as well as the overall analytical and problem solving skills that I gained through my degree. Throughout my year and a half in this space however, working on various data projects, I realize that those which have interested me the most and which I have been most passionate about involved data science. I have realized that data science is the perfect intersection between mathematics and computer engineering – and sparks a passion that I have never experienced in other areas of work."
+  },
+  {
+    "objectID": "about.html#deloiitte-data-engineering-consulting",
+    "href": "about.html#deloiitte-data-engineering-consulting",
+    "title": "About Me",
+    "section": "Deloiitte: Data Engineering Consulting",
+    "text": "Deloiitte: Data Engineering Consulting\nI graduated from Queen’s University with a BASc. in Computer Engineering & Applied Mathematics in the spring of 2021. After graduating from my Bachelors, I started working as a Data Engineering consultant with Deloitte. I worked on the Omnia AI Strategy, Analytics and M&A team and specialized in Public Sector technology transformations. Through my various projects, I took on various roles from decision making for the delivery approach and architecture for technology modernization initiatves, to wrting SQL scripts to reconcile the legacy and target data as per migration mappings, to implementing solutions to reduce manual workload through automated entity resolution.\nI really enjoyed building on my Computer Engineering studies as well as the overall analytical and problem solving skills that I gained through my degree. Throughout my year and a half in this space however, working on various data projects, I realize that those which have interested me the most and which I have been most passionate about involved data science. I have realized that data science is the perfect intersection between mathematics and computer engineering – and sparks a passion that I have never experienced in other areas of work."
+  },
+  {
+    "objectID": "about.html#deloitte-data-engineering-consulting",
+    "href": "about.html#deloitte-data-engineering-consulting",
+    "title": "About Me",
+    "section": "Deloitte: Data Engineering Consulting",
+    "text": "Deloitte: Data Engineering Consulting\nI graduated from Queen’s University with a BASc. in Computer Engineering & Applied Mathematics in the spring of 2021. After graduating from my Bachelors, I started working as a Data Engineering consultant with Deloitte in Toronto. I worked on the Omnia AI team and specialized in Public Sector technology transformations. I took on various roles across my projects - from creating data catelogs and data models to guide the delivery approach for technology modernization initiatves, to wrting SQL scripts to reconcile the transformed data, to implementing entity resolution solutions to automate previously manual processes.\nI really enjoyed buiilding on my computer engineering background and using my aptitude for problem solving in this position. However, across my projects at Deloitte, I realized that those which interested me the most and which I have been most passionate about involved data science. I had always had a love for mathematics and found data science to be the perfect intersection between mathematics and computer engineering – sparking a passion that I had never experienced in other areas of work."
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Resume coming soon …"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Projects coming soon …"
   }
 ]

@@ -1,5 +1,53 @@
 ---
-title: "Homepage"
+title: "Rachel Bouwer"
+toc: false
+about:
+  template: jolla
+  image-shape: round
+  image-width: 20em
+  image: images/headshot.jpeg
+  links:
+    - icon: github
+      text: Github
+      href: https://www.github.com/rbouwer
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/rbouwer/
+    - icon: envelope
+      text: Email
+      href: mailto:r.12.bouwer@gmail.com
+---
+::: typewriter 
+# Aspiring Data Scientist
+:::
+
 ---
 
-This homepage is under construction! Please check back in 9 months...
+Hello and welcome to my page! I built this site to share more about me, my projects, and my experiences. Hope you enjoy!
+
+---
+
+::: mainbox
+::: {style="padding-left: 10px; padding-right: 10px; display: inline-block;"}
+::: {layout-ncol="3"}
+::: {style="text-align: center;"}
+### [About Me](about.qmd)
+
+Learn a bit more about me and the past couple years of my life!
+:::
+
+::: {style="text-align: center;"}
+### [Projects](projects.qmd)
+
+Take a peek at some of my notable projects!
+:::
+
+::: {style="text-align: center;"}
+### [Resume](resume.qmd)
+
+Here's my full resume!\
+\
+:::
+:::
+:::
+:::

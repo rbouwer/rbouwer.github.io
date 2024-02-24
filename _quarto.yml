@@ -4,18 +4,34 @@ project:
 
 website:
   title: "Rachel Bouwer"
+  favicon: images/logo.png
+  reader-mode: true
   navbar:
     left:
       - href: index.qmd
         text: Home
       - href: about.qmd
         text: About Me
+      - href: projects.qmd
+        text: Projects
+      - href: resume.qmd
+        text: Resume
+    right:
+      - icon: github
+        href: https://www.github.com/rbouwer
+    logo: images/logo.png
+    logo-alt: "Rachel Bouwer's Personal Website"
+    title: false
+    background: "#6e9277"
+    foreground: "#E6E6DD"
+    collapse-below: lg
 
 format:
   html:
-    theme: cosmo
+    theme: [minty, styles.scss]
     css: styles.css
     toc: true
+    page-layout: full
 
 
 

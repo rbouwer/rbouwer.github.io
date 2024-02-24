@@ -1,0 +1,6 @@
+---
+pagetitle: Resume | Rachel Bouwer
+title: Resume
+subtitle: "UNDER CONSTRUCTION"
+---
+Resume coming soon ...

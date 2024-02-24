@@ -1,1 +1,62 @@
 /* css styles */
+.navbar-logo {
+    max-height: 50px;
+    width: auto;
+    align-items: baseline;
+}
+
+#quarto-header {
+    border-bottom: 1px solid "#E6E6DD";
+}
+
+.mainbox {
+    background-color: #E6E6DD;
+    color: #545454;
+    text-align: center;
+}
+      
+.mainbox a {
+    color: #6e9277;
+    font-size: 90%;
+    text-decoration: none;
+}
+      
+.mainbox h2 {
+    font-weight: lighter;
+    border-bottom-width: 0px;
+}
+      
+.mainbox p {
+    font-weight: lighter;
+    font-size: 80%;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+  }
+
+.typewriter h1 {
+  color: #4a6551;
+  overflow: hidden; 
+  border-right: .10em solid #6e9277;
+  white-space: nowrap;
+  margin: 0 auto;
+  padding-right: 10px;
+  letter-spacing: .15em;
+  animation: 
+    typing-first 3.5s steps(50, end),
+    blink-caret .5s step-end infinite;
+}
+
+@keyframes typing-first {
+  from { width: 0 }
+  to { width: 100% }
+}
+
+@keyframes blink-caret {
+  from, to { border-color: transparent;
+            transform: scale(1);}
+  50% { border-color: #6e9277;
+        transform: scale(1);}
+}

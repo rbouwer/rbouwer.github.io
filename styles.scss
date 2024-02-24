@@ -1,0 +1,12 @@
+/* -- define Sass vars --*/
+$darkgreen: #6e9277;
+$darkergreen: #4a6551;
+$lightbeige: #E6E6DD;
+$lighterbeige: #FFFFF5;
+$darkgray: #545454;
+
+/*-- scss:defaults --*/
+#quarto-content {
+  background-color: $lighterbeige;
+  color: $darkgray;
+}
