@@ -1,6 +1,15 @@
 ---
 pagetitle: Projects | Rachel Bouwer
 title: Projects
-subtitle: "UNDER CONSTRUCTION"
+subtitle: "Still in progress..."
+listing:
+  contents:
+    - path: https://github.com/UBC-MDS/PyXplor
+      image: /images/pyxplor_logo.png
+      title: "PyXplor Python Package"
+      description: "A package for simplifying the EDA of different data types!"
+  type: grid
+  feed: true
+  fields: [image, title, description]
+
 ---
-Projects coming soon ...

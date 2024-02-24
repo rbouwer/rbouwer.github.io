@@ -38,7 +38,7 @@ In September of 2023, I made the move to Vancouver to start my Masters of Data S
 
 ### Key Courses
 - **Machine Learning** (Supervised & Unsupervised; Classification, Regression, Neural Networks, Language Modelling (NLP), Feature Selection, Time Series & Temporal Models, Deep Learning)
-- **Statistics** (Predictive & Descriptive Statistical Inference, A/B Testing, Hypothesis Testing, Bayesian Statistics, Regression),
+- **Statistics** (Predictive & Descriptive Statistical Inference, A/B Testing, Hypothesis Testing, Bayesian Statistics, Regression)
 - **Relational Databases & Database Management** (PostgreSQL, NoSQL, MongoDB)
 - **Data Visualization** (Python: Altair & matlplotlib, R: ggplot)
 - **ML Ops & Software Development** (CI/CD, Containerization, Reproducibility, Data Science Workflows, Unit Testing, Automated Workflows)
