@@ -14,7 +14,7 @@ about:
       href: https://www.github.com/rbouwer
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/rbouwer/
+      href: https://www.linkedin.com/in/rachel-bouwer/
     - icon: envelope
       text: Email
       href: mailto:r.12.bouwer@gmail.com
